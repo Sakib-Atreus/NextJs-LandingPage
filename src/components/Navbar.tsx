@@ -53,7 +53,7 @@ const Navbar = () => {
           />
         </a>
         <div className="hidden lg:flex">
-          <ul className="menu menu-horizontal px-6">
+          <ul className="menu menu-horizontal px-6 text-white">
             <li>
               <a>Demos</a>
             </li>
